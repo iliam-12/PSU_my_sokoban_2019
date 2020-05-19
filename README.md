@@ -1,8 +1,7 @@
 # my_sokoban
 PDF available
-### To download libncurses
+#### _To download libncurses_
       Fedora : sudo dnf install ncurses-devel
-      Debian / Linux : sudo apt-get install libncurses5-dev libncursesw5-dev
-      Other OS => Google
+      Debian/Linux : sudo apt-get install libncurses5-dev libncursesw5-dev
 ### Usage:
       make re && ./my_sokoban your_map.txt
