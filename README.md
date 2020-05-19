@@ -1,6 +1,6 @@
 # my_sokoban
 PDF available
-#### _To download libncurses_
+#### _To download libncurses :_
       Fedora : sudo dnf install ncurses-devel
       Debian/Linux : sudo apt-get install libncurses5-dev libncursesw5-dev
 ### Usage:
